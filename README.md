@@ -1,4 +1,3 @@
-            <button type=submit class=" btn-success    btn-lg  " ng-disabled="form.$invalid || dataLoading" style="color:silver;">Esqueci a senha</button> 
 # Matrix 2015
 Questionário de avaliação de conhecimento de regras do Dolphin ERP.
 
